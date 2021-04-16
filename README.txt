@@ -8,7 +8,7 @@ npm yarn start
 
 ===================
 App.js
-index.css
+index.css --> index.scss  >> yarn add node-sass
 index.js
 ===================
 
